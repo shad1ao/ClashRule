@@ -539,8 +539,8 @@ rule-providers:
     type: http
     
   Gryphline:
-    url: https://gh.21119855.xyz/https://raw.githubusercontent.com/IcyBlue17/ClashRule/refs/heads/main/ruleset/fuck-gryphline.list
-    path: ./ruleset/fuck-gryphline.list
+    url: https://gh.21119855.xyz/https://raw.githubusercontent.com/IcyBlue17/ClashRule/refs/heads/main/ruleset/gryphline.list
+    path: ./ruleset/gryphline.list
     behavior: classical
     interval: 86400
     format: text
